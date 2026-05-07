@@ -6,4 +6,6 @@ editor: visual
 
 ## Hi
 
+This line is added in the main branch. 
+
 This new line combines both changes from the main branch and testbranch :-)
