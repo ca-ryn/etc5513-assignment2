@@ -6,4 +6,12 @@ editor: visual
 
 ## Hi
 
+This line is added in the testbranch.
 This new line combines both changes from the main branch and testbranch :-)
+
+## Plot
+```{r}
+ggplot(diamonds, aes(x = carat, y = price)) +
+  geom_point()
+```
+
